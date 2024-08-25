@@ -1,5 +1,5 @@
 # Modern UI Elements
-The contents [^1]
+Contents: [^1]
 - [Basic Input Controls](#basic-input-controls)
 - [Navigation Components](#navigation-components)
 - [Information Display](#information-display)
