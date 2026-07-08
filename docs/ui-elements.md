@@ -1,13 +1,15 @@
 # Modern UI Elements
 Contents: [^1]
-- [Basic Input Controls](#basic-input-controls)
-- [Navigation Components](#navigation-components)
-- [Information Display](#information-display)
-- [Feedback &amp; Status](#feedback--status)
-- [Advanced Input Controls](#advanced-input-controls)
-- [Layout Components](#layout-components)
-- [Utility Components](#utility-components)
-[^1]: This document attempts to be a comprehensive guide to modern UI elements, providing a categorised list of various components used in contemporary user interfaces. Some of its contents were generated with the help of an AI-assitant.
+- [Modern UI Elements](#modern-ui-elements)
+  - [Basic Input Controls](#basic-input-controls)
+  - [Navigation Components](#navigation-components)
+  - [Information Display](#information-display)
+  - [Feedback \& Status](#feedback--status)
+  - [Advanced Input Controls](#advanced-input-controls)
+  - [Layout Components](#layout-components)
+  - [Utility Components](#utility-components)
+
+[^1]: This document attempts to be a comprehensive guide to modern UI elements, providing a categorised list of various components used in contemporary user interfaces. Some of its contents were generated with the help of an AI-assistant.
 
 ## Basic Input Controls
 
